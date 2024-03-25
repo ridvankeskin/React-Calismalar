@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(33, 33, 33);
+  color: white;
+  padding: 40px;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px solid white;
+  
+}
+
+header nav {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  
+}
+.btn {
+  background: green;
+  border: none;
+  padding: 6px;
+  border-radius: 10px;
+  transition: all 0.4s;
+  color: white;
+  font-weight: 600;
+}
+.btn:hover {
+  cursor: pointer;
+  filter: brightness(70%);
+}
+div .card {
+  margin-top: 20px;
+  border-radius: 20px;
+  
+}
+
+input {
+  border: none;
+  border-radius: 6px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.card {
+  width: 300px;
+  background: white;
+  overflow: hidden;
+  color: black;
+  text-align: center;
+  
+}
+.card img {
+  width: 100%;
+  border-radius: 10px;
+  height: 200px;
+  
+}
+.card .body {
+  padding: 8px;
+  
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  
+}
+
+.alert {
+  padding: 10px;
+  border-radius: 20px;
+  background: gray;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.hata {
+  background: red;
+}
+
+.uyari {
+  background: blue;
+}
+
+.bilgi {
+  background: green;
+}
+.baslik{
+  padding: 0 10px;
+}

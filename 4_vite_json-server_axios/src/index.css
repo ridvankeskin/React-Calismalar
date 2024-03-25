@@ -1,0 +1,12 @@
+body {
+  background: rgb(32, 31, 31);
+  color: white;
+}
+ul li:hover > .date {
+  color: white;
+}
+.date {
+  position: absolute;
+  right: -78px;
+  color: rgb(158, 152, 152);
+}

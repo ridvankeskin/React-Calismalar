@@ -1,0 +1,101 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Suç ve Ceza",
+      "author": "Dostoyevski",
+      "image": "https://picsum.photos/601",
+      "year": 1866,
+      "page": 500,
+      "description": "Raskolnikov Hayatı..."
+    },
+    {
+      "id": 2,
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "image": "https://picsum.photos/602",
+      "year": 1606,
+      "page": 150,
+      "description": "Güç Hırsının Sonuçları..."
+    },
+
+    {
+      "id": 3,
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "image": "https://picsum.photos/603",
+      "year": 1877,
+      "page": 864,
+      "description": "Aşk ve İhanetin Öyküsü..."
+    },
+
+    {
+      "id": 4,
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "image": "https://picsum.photos/604",
+      "year": 1856,
+      "page": 500,
+      "description": "Bir Kadının Hüsranı..."
+    },
+
+    {
+      "id": 5,
+      "title": "Cesur Yeni Dünya",
+      "author": "Aldous Huxley",
+      "image": "https://picsum.photos/605",
+      "year": 1932,
+      "page": 320,
+      "description": "Distopik Bir Gelecek..."
+    },
+
+    {
+      "id":6,
+      "title": "Savaş ve Barış",
+      "author": "Leo Tolstoy",
+      "image": "https://picsum.photos/606",
+      "year": 1869,
+      "page": 1225,
+      "description": "Napolyon Savaşları ve Aşk..."
+    },
+    {
+      "id": 7,
+      "title": "Göçebe",
+      "author": "Hermann Hesse",
+      "image": "https://picsum.photos/607",
+      "year": 1919,
+      "page": 250,
+      "description": "İçsel Yolculuk..."
+    },
+
+    {
+      "id": 8,
+      "title": "Cennet Kayıp",
+      "author": "John Milton",
+      "image": "https://picsum.photos/608",
+      "year": 1667,
+      "page": 442,
+      "description": "İsyanın Hikayesi..."
+    },
+
+    {
+      "id": 9,
+      "title": "Yüzüklerin Efendisi",
+      "author": "J.R.R. Tolkien",
+      "image": "https://picsum.photos/609",
+      "year": 1954,
+      "page": 1178,
+      "description": "Orta Dünya'nın Epik Savaşı..."
+    },
+
+    {
+      "id": 10,
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "image": "https://picsum.photos/610",
+      "year": 1851,
+      "page": 720,
+      "description": "Bir Balina Avcısının Hikayesi..."
+    }
+  ]
+}

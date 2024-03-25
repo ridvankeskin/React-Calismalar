@@ -1,0 +1,45 @@
+body {
+  color: rgba(255, 255, 255, 0.87) !important;
+  background-color: #242424 !important;
+  min-height: 100vh;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+a {
+  color: white;
+  padding: 5px;
+  text-decoration: none !important;
+}
+.active {
+  background: #fd4d38;
+  border-radius: 6px;
+  color: white;
+  box-shadow: 0 0 6px #fed49f;
+}
+#btn-filter {
+  background: #fd4d38;
+  box-shadow: 0 0 6px #fed49f;
+}
+#btn-detay {
+  background: #fd4d38;
+  box-shadow: 0 0 6px #fed49f;
+  border: none;
+}
+#dark {
+  color: black;
+  font-size: 22px;
+  font-weight: 600;
+}
+#_dark {
+  color: black;
+  font-size: 22px;
+  font-weight: 600;
+}
+#_dark:hover {
+  color: rgb(98, 92, 92);
+}

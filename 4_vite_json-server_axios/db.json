@@ -1,0 +1,116 @@
+{
+  "todos": [
+    {
+      "id": "4d2df72c-ac4f-4b90-a7d5-a988e8541c0d",
+      "title": "sass ss",
+      "status": "deily",
+      "date": "12.03.2024"
+    },
+    {
+      "id": "f8789b95-3c6a-4771-a432-0160b4fb3d13",
+      "title": "react",
+      "status": "daily",
+      "date": "12.03.2024"
+    },
+    {
+      "id": "ac87aeb1-0951-4f77-a791-4b3d1395b1de",
+      "title": "react ",
+      "status": "job",
+      "date": "12.03.2024"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "ad": "Ahmet",
+      "soyad": "Yılmaz",
+      "yas": 32,
+      "email": "ahmet@example.com",
+      "telefon": "555-123-4567",
+      "adres": "Örnek Mahallesi, Örnek Sokak No: 123"
+    },
+    {
+      "id": "2",
+      "ad": "Ayşe",
+      "soyad": "Kaya",
+      "yas": 28,
+      "email": "ayse@example.com",
+      "telefon": "555-234-5678",
+      "adres": "Test Mahallesi, Test Sokak No: 456"
+    },
+    {
+      "id": "3",
+      "ad": "Mehmet",
+      "soyad": "Demir",
+      "yas": 35,
+      "email": "mehmet@example.com",
+      "telefon": "555-345-6789",
+      "adres": "Deneme Mahallesi, Deneme Sokak No: 789"
+    },
+    {
+      "id": "4",
+      "ad": "Fatma",
+      "soyad": "Öztürk",
+      "yas": 40,
+      "email": "fatma@example.com",
+      "telefon": "555-456-7890",
+      "adres": "Örnek Mahallesi, Örnek Sokak No: 123"
+    },
+    {
+      "id": "5",
+      "ad": "Mustafa",
+      "soyad": "Arslan",
+      "yas": 27,
+      "email": "mustafa@example.com",
+      "telefon": "555-567-8901",
+      "adres": "Test Mahallesi, Test Sokak No: 456"
+    },
+    {
+      "id": "6",
+      "ad": "Zeynep",
+      "soyad": "Yıldız",
+      "yas": 30,
+      "email": "zeynep@example.com",
+      "telefon": "555-678-9012",
+      "adres": "Deneme Mahallesi, Deneme Sokak No: 789"
+    },
+    {
+      "id": "7",
+      "ad": "Ali",
+      "soyad": "Şahin",
+      "yas": 33,
+      "email": "ali@example.com",
+      "telefon": "555-789-0123",
+      "adres": "Örnek Mahallesi, Örnek Sokak No: 123"
+    },
+    {
+      "id": "8",
+      "ad": "Sema",
+      "soyad": "Erdem",
+      "yas": 25,
+      "email": "sema@example.com",
+      "telefon": "555-890-1234",
+      "adres": "Test Mahallesi, Test Sokak No: 456"
+    },
+    {
+      "id": "9",
+      "ad": "Emre",
+      "soyad": "Koç",
+      "yas": 29,
+      "email": "emre@example.com",
+      "telefon": "555-901-2345",
+      "adres": "Deneme Mahallesi, Deneme Sokak No: 789"
+    },
+    {
+      "id": "10",
+      "ad": "Gizem",
+      "soyad": "Çelik",
+      "yas": 31,
+      "email": "gizem@example.com",
+      "telefon": "555-012-3456",
+      "adres": "Örnek Mahallesi, Örnek Sokak No: 123"
+    }
+  ],
+  "title": [],
+  "status": []
+}
